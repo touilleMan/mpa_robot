@@ -1,4 +1,4 @@
-# MDA_robot
+# MPA_robot
 
 Car-like robot simulator for testing moving algorythms 
 
